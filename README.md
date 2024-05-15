@@ -24,3 +24,7 @@ Pour finir, décoder le message codé avec l'option `-d`, à l'aide de `<fichier
 **Limites de mon programme :** 
 
 Pour que l'algorithme de cryptage fonctionne, la taille de la clé doit être supérieure ou égale à celle du message. Cela n'est pas pratique lorsque l'on doit crypter de grands messages car on doit transmettre une clé qui fait la même taille que le message pour son décodage. Le programme a été testé avec un texte `"lorem ipsum"` de 500 mots et je n'ai pas rencontré de ralentissements significatifs lors du codage et du décodage du message. Le temps de calcul a été instantané, le fichier contenant le message décodé `<fichier_msg_décodé>` est généré d'un coup.
+
+---
+
+© Baptiste BLANCHON
