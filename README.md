@@ -1,4 +1,4 @@
-# Devoir sur la génération d'une clé pour coder et décoder un message :
+# Génération d'une clé qui code et décode un message :
 
 **Pour compiler le programme :**
 
